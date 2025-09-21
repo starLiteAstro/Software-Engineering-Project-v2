@@ -19,7 +19,7 @@
     - Make sure `pip`, `pipenv` and `setuptools` are installed and upgraded to the latest version by running `pip3 install --upgrade pip pipenv setuptools`.
 - [Node.js LTS or higher and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
     - Note: the latest versions of Node.js may output a warning when the website is running.
-- [MySQL 8 or higher](https://dev.mysql.com/downloads/mysql/])
+- [MySQL 8 or higher](https://dev.mysql.com/downloads/)
     - For macOS Homebrew users, run `brew install mysql`.
     - For Linux, you should use the package manager specific to your distribution.
 - [(Optional) pnpm](https://pnpm.io/installation)
